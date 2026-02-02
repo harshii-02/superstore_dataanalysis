@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Databases
+*.db
+*.sqlite3
+
+# Data files (optional, but good for large files)
+# superstore.csv
+
+# IDEs
+.vscode/
+.idea/
+
+# Power BI temp files
+*.pbit
+*.pbix.search
